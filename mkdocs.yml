@@ -1,0 +1,22 @@
+site_name: 明科補習班
+theme:
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: teal
+      accent: purple 
+
+extra:
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/MingKer2005
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/mingk2005
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@MingKer2005
+
+copyright: |
+  &copy; 2024 <a href="https://github.com/mingk2005"  target="_blank" rel="noopener">Ming Ker</a>
